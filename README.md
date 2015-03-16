@@ -1,4 +1,4 @@
-ES6 Marionette project
+ES6 Webpack Starter
 ======================
 Looking for boilerplate projects to start working with ECMAScript 6 I didn't found a project that fit my requirements, so I take the best part of other projects and put all together here. This project can be used to bootstrap new projects with ECMAScript 6 support.
 
@@ -27,7 +27,7 @@ Setup
 -----
 Clone the repository and install the dependencies.
 
-    $ git clone https://github.com/abiee/es6-marionette.git my-project
+    $ git clone https://github.com/one-aalam/es6-webpack-starter.git my-project
     $ cd my-project
     $ npm install
     $ bower install
